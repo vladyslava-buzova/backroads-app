@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/backroads-app/static/css/main.cb5062d0.css",
-    "main.js": "/backroads-app/static/js/main.ad15035c.js",
+    "main.css": "/backroads-app/static/css/main.5856162e.css",
+    "main.js": "/backroads-app/static/js/main.44a19674.js",
+    "static/media/main.jpeg": "/backroads-app/static/media/main.ee06c8093040691ef36a.jpeg",
+    "static/media/tour-4.jpeg": "/backroads-app/static/media/tour-4.ee06c8093040691ef36a.jpeg",
+    "static/media/tour-2.jpeg": "/backroads-app/static/media/tour-2.2191541e793e4f347045.jpeg",
     "static/media/about.jpeg": "/backroads-app/static/media/about.7e8676e80c8ecf02ba4f.jpeg",
-    "static/media/main.jpeg": "/backroads-app/static/media/main.1486d4061cd0252b9a21.jpeg",
     "static/media/tour-1.jpeg": "/backroads-app/static/media/tour-1.7249f01d0247bb61be6c.jpeg",
     "static/media/tour-3.jpeg": "/backroads-app/static/media/tour-3.be0128f4564f9fdeff41.jpeg",
-    "static/media/tour-2.jpeg": "/backroads-app/static/media/tour-2.9b623865a74489b82b8a.jpeg",
     "static/media/tour-5.jpeg": "/backroads-app/static/media/tour-5.c97671c757027561a40e.jpeg",
-    "static/media/tour-4.jpeg": "/backroads-app/static/media/tour-4.54a5dbc7421eba8708c8.jpeg",
     "static/media/tour-6.jpeg": "/backroads-app/static/media/tour-6.4fb67184027daf9d068a.jpeg",
     "static/media/logo.svg": "/backroads-app/static/media/logo.08d970fd0ddb0af90a9c60fb965e56d2.svg",
     "index.html": "/backroads-app/index.html",
-    "main.cb5062d0.css.map": "/backroads-app/static/css/main.cb5062d0.css.map",
-    "main.ad15035c.js.map": "/backroads-app/static/js/main.ad15035c.js.map"
+    "main.5856162e.css.map": "/backroads-app/static/css/main.5856162e.css.map",
+    "main.44a19674.js.map": "/backroads-app/static/js/main.44a19674.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb5062d0.css",
-    "static/js/main.ad15035c.js"
+    "static/css/main.5856162e.css",
+    "static/js/main.44a19674.js"
   ]
 }
